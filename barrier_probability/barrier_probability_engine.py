@@ -5,7 +5,7 @@
 """
 calcula_prob_barreira_v8.py
 
-✅ Estrutura alinhada com sua planilha "Probabilidade de Rompimento.xlsx":
+✅ Estrutura alinhada com a planilha "Probabilidade de Rompimento.xlsx":
 Abas usadas (e somente elas):
 - Operações - DATA
 - RTD - Export
